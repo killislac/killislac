@@ -1,6 +1,6 @@
 ### Hi there 👋
 Ola, 
-Meu nome é Kamily Lacerda, sou recem graduada em Administração pela Etec Lauro Gomes. Atualmente estou cursando Front End no Senai Ipiranga com parceria com a Ford Academy, adquirindo habilidades em HTML, CSS e Java Script.
+Meu nome é Kamily Lacerda, sou recém graduada em Administração pela Etec Lauro Gomes. Atualmente estou cursando Front End no Senai Ipiranga em parceria com a Ford Academy, adquirindo habilidades em HTML, CSS e Java Script.
 <!--
 **killislac/killislac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
